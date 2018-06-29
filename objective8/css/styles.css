@@ -1,0 +1,166 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.menu-icon {
+    width: 45px;
+    margin-left: 10px;
+}
+
+.open .menu-icon {
+    position: fixed;
+}
+
+.menu-icon:hover .bar1{
+    background-color: black;
+}
+
+.menu-icon:hover .bar2{
+    background-color: black;
+}
+
+.menu-icon:hover .bar3{
+    background-color: black;
+}
+
+
+.bar1 {
+    width: 45px;
+    height: 5px;
+    background-color: grey;
+    margin-top: 20px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.bar2 {
+    width: 45px;
+    height: 5px;
+    background-color: grey;
+    margin-top: 5px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.bar3 {
+    width: 45px;
+    height: 5px;
+    background-color: grey;
+    margin-top: 5px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.open {
+    animation: move .4s ease-out;
+    animation-fill-mode: forwards;
+}
+
+.open:hover .bar1 {
+    background-color: white;
+}
+
+.open:hover .bar2 {
+    background-color: white;
+}
+
+.open:hover .bar3 {
+    background-color: white;
+}
+
+@keyframes move {
+    0% {transform: translate(0px, 0px);}
+    100% {transform: translate(200px,0px);}
+}
+
+.open .bar1 {
+    animation: rotate .3s ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rotate {
+    0% {transform: rotate(0deg) translate(0px,0px);}
+    100% {transform: rotate(45deg) translate(0px, 12.7px);}
+}
+
+.open .bar2 {
+    animation: gone .3s ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes gone {
+    100% {
+        opacity: 0;
+    }
+}
+
+.open .bar3 {
+    animation: rotate2 .3s ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rotate2 {
+    0% {transform: rotate(0deg) translate(0px,0px);}
+    100% {
+        transform: rotate(315deg) translate(0px,-14px);
+    }
+}
+
+
+.menu {
+    width: 250px;
+    height: 100%;
+    float: left;
+    background-color: black;
+    margin-left: -250px;
+    animation: trans .3s ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes trans {
+    0% {transform: translate(0px, 0px);}
+    100% {transform: translate(250px, 0px);}
+}
+
+h1 {
+    position: absolute;
+    left: 10px;
+    top: 75px;
+    margin: 0;
+
+}
+
+p {
+    position: absolute;
+    top: 120px;
+    left: 10px;
+}
+
+.text h1 {
+    left: 260px;
+    width: 500px;
+}
+
+.text p {
+    left: 260px;
+    width: 300px;
+}
+
+a {
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: gray;
+}
+
+a:nth-of-type(1) {
+    margin-top: 25px;
+}
+
+.menu a {
+    visibility: visible;
+}
+
+.menu a:hover {
+    color: white;
+}
