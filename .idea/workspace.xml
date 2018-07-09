@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f246577-3516-4a8d-a14d-dba4348256ee" name="Default" comment="" />
+    <list default="true" id="8f246577-3516-4a8d-a14d-dba4348256ee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/allObjectives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -33,10 +35,10 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/allObjectives/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="20" />
+            <state relative-caret-position="429">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="37" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,6 +107,7 @@
         <option value="$PROJECT_DIR$/allObjectives/report/report.html" />
         <option value="$PROJECT_DIR$/allObjectives/index.html" />
         <option value="$PROJECT_DIR$/allObjectives/objective9/example.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -117,7 +120,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="420" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -139,12 +142,6 @@
               <item name="fevrierfritz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="allObjectives" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fevrierfritz.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fevrierfritz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="allObjectives" type="462c0819:PsiDirectoryNode" />
-              <item name="objective9" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,6 +158,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fgfev\Documents\GitHub\fevrierfritz.github.io" />
       <recent name="C:\Users\fgfev\Documents\GitHub\fevrierfritz.github.io\allObjectives" />
       <recent name="C:\Users\fgfev\Documents\GitHub\fevrierfritz.github.io\allObjectives\searchmovies\css" />
       <recent name="C:\Users\fgfev\Documents\GitHub\fevrierfritz.github.io\allObjectives\objective" />
@@ -191,12 +189,12 @@
       <workItem from="1530232080066" duration="1881000" />
       <workItem from="1530436398569" duration="21068000" />
       <workItem from="1530654199823" duration="13910000" />
-      <workItem from="1530929374702" duration="17132000" />
+      <workItem from="1530929374702" duration="17351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53991000" />
+    <option name="totallyTimeSpent" value="54210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -575,10 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allObjectives/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="20" />
+        <state relative-caret-position="429">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="37" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
