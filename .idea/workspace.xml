@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f246577-3516-4a8d-a14d-dba4348256ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/allObjectives/CSS3Transforms/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/CSS3Transforms/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/CSS3Transforms/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/CSS3Transforms/js/solarSpeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/Canvas/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/Canvas/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/DOM-Manupulation/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/basicJavascript/json/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/cssTransitionJava/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/cssTransitionJava/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/cssTransitionJava/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/localStorage/css/storage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/localStorage/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/localStorage/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allObjectives/objective9/subpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/DOM-Manupulation/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/DOM-Manupulation/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective10/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/cssTransition/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective10/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/cssTransition/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective10/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/basicJavascript/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective13/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/cssAnimation/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective13/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/cssAnimation/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective13/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/cssAnimation/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective2/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective2/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective3/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective3/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective4/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective4/examples.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective4/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective5/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/localStorage/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective5/js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/cssTransition/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective5/jscripts/localStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/localStorage/jscripts/localStorage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective5/jscripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/localStorage/jscripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective6/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective6/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective6/videos/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/DOM-Manupulation/videos/video.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective8/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/objective8/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective8/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/objective8/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective8/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/objective8/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective9/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/objective9/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objective9/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/allObjectives/objective9/js/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="8f246577-3516-4a8d-a14d-dba4348256ee" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -161,7 +117,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="420" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -235,15 +191,15 @@
       <workItem from="1530232080066" duration="1881000" />
       <workItem from="1530436398569" duration="21068000" />
       <workItem from="1530654199823" duration="13910000" />
-      <workItem from="1530929374702" duration="16757000" />
+      <workItem from="1530929374702" duration="17132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53616000" />
+    <option name="totallyTimeSpent" value="53991000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14467409" />
